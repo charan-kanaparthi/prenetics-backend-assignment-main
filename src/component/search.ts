@@ -8,7 +8,6 @@ export async function search(
     organisation: Organisation,
     params: Request['params'],
 ) {
-
 return {
     'data': [{
 		'id': 'b0672227-3822-4b2b-8a99-d5f8dcf4391b',
